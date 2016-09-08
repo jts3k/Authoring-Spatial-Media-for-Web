@@ -1,6 +1,6 @@
 ## Authoring Spatial Media for the Youtube
 
-[Theta Ricoh](https://theta360.com/en/) is cheap and easy to use but images are soft (especially distant objects.  The camera shoots 1920x960, square pixels, 29.97fps, 44.1khz audio.  Video needs to be re-encoded into a spherical video using [their special software](https://theta360.com/en/support/download/).
+[Theta Ricoh](https://theta360.com/en/) is cheap and easy to use but images are soft (especially distant objects).  The camera shoots 1920x960, square pixels, 29.97fps, 44.1khz audio.  Video needs to be re-encoded into a spherical video using [their special software](https://theta360.com/en/support/download/).
 
 Adobe Premiere seems best for cutting due to flexibility in sequence settings and such.  Reaper is the best DAW for serious sound editing.
 
